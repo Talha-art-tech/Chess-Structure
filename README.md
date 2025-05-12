@@ -1,1 +1,1 @@
-# Chess-Structure
+# Chess-Structure Design
